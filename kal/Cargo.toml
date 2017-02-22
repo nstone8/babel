@@ -1,0 +1,8 @@
+[package]
+name = "kal"
+version = "0.1.0"
+authors = ["nstone"]
+
+[dependencies]
+gpgme={path="./gpgme"}
+libc="0.2"
